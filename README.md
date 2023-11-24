@@ -13,7 +13,7 @@ Embark on an exciting virtual adventure with GeoGuessr, an innovative game that 
 2.Think Globally : Consider climate, language, culture, and geographical features to narrow down your guess to a specific region of the world.
 3.Use Google Maps : Utilize external tools such as Google Maps to cross-reference and confirm your theories about the location.
 
-**Tap On This Link To Play Game : **
+**Tap On This Link To Play Game :**
 https://bensizelove.github.io/geoguessr/
 
 **Original Game Link :**
